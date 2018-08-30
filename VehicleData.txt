@@ -1,0 +1,46 @@
+Number of vehicles: 43
+-----------------------------------------------
+VXF 1337	BMW	323is	1995
+FMI 0539	Pontiac	Sunfire	1993
+ZXM 3250	Ford	Focus	1979
+WGV 0192	BMW	318i	1985
+RIH 9990	Saab	900S	1980
+QIP 2075	Mercury	Tracer	1978
+NAO 4300	Subaru	Legacy	1995
+GNI 5528	BMW	323is	1990
+BLW 1794	Mercury	Sable	1980
+NYS 6580	GMC	Yukon	1994
+JSB 1573	Ford	Mustang	1981
+XTB 7107	Oldsmobile	Alero	1976
+YRC 2525	Jeep	Wrangler	1991
+FQN 9276	Porsche	944	1992
+HCM 0044	Jeep	Grand Cherokee	1981
+WIG 4300	Chevrolet	Caprice	1990
+VZZ 6778	Jeep	Cherokee	1985
+LOK 7750	Chrysler	Concorde	1984
+OVA 4361	Cadillac	Seville	1995
+EZB 5610	Cadillac	DeVille	1986
+SYG 6991	Lincoln	Mark VIII	1995
+MLK 8735	Ford	F100	1986
+BYX 7901	GMC	Safari	1999
+ODE 0958	Chevrolet	Caprice	1998
+END 6798	Mazda	RX7	1977
+EII 1359	Dodge	Neon	1983
+IKU 9503	Dodge	Stratus	1979
+KWK 4265	Cadillac	DeVille	2002
+MGH 3602	Honda	Prelude	1986
+USL 9721	Chrysler	Concorde	1994
+AZR 5612	Ford	Windstar	1997
+SFZ 0747	Chevrolet	Cavalier	1995
+VAW 8969	Cadillac	Seville	1998
+YEH 3161	Buick	LeSabre	1980
+CRD 8296	Chevrolet	Lumina	1989
+MKG 1912	Honda	CRV	1999
+SZG 9177	Subaru	Legacy	1975
+BLU 4600	Subaru	Forester	2002
+TXX 4814	GMC	Sonoma	1986
+HBK 9644	GMC	Suburban	1987
+PPC 3799	Chevrolet	Corvette	1991
+CVP 1121	Honda	Civic	1995
+HNX 4261	Dodge	Stratus	1980
+RIV 4399	Mazda	Miata	1977

@@ -1,0 +1,22 @@
+Programmer: Will Butler
+CS 1044 Project 7 Fall 2001
+
+------------------------------------------------------------
+Searching for license: HNX 4261
+HNX 4261	Dodge	Stratus	1980
+------------------------------------------------------------
+Searching for manufacturer: Chevrolet
+WIG 4300	ODE 0958	SFZ 0747	CRD 8296	PPC 3799	
+------------------------------------------------------------
+Searching for license: ABC 1726
+ABC 1726 not found
+------------------------------------------------------------
+Searching for license: RIV 4399
+RIV 4399 not found
+------------------------------------------------------------
+Searching for manufacturer: Plymouth
+Plymouth not found
+------------------------------------------------------------
+Searching for license: CRD 8296
+CRD 8296	Chevrolet	Lumina	1989
+------------------------------------------------------------
